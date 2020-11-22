@@ -8,7 +8,7 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-public class QuestionAChoixMultipleTest {
+public class QuestionAChoixMultipleTest{
 
     private String enonce;
     private List<Integer> indicesBonnesReponses;
